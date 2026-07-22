@@ -1,0 +1,15 @@
+target/
+*.class
+*.log
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+bin/
+out/
+.DS_Store
+runtimelens.log
+stdout.log
+stderr.log
+sample-app/

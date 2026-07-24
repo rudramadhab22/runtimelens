@@ -4,16 +4,16 @@
   <parent>
     <artifactId>runtimelens-parent</artifactId>
     <groupId>io.github.rudramadhab22</groupId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
   </parent>
 
   <groupId>io.github.rudramadhab22</groupId>
   <artifactId>runtimelens-core</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
 
   <name>runtimelens-core</name>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <description>Core library for RuntimeLens providing diagnostic and observability capabilities.</description>
+  <url>https://github.com/rudramadhab22/runtimelens</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

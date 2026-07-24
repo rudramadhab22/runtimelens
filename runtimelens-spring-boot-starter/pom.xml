@@ -5,12 +5,13 @@
   <parent>
     <artifactId>runtimelens-parent</artifactId>
     <groupId>io.github.rudramadhab22</groupId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
   </parent>
 
   <artifactId>runtimelens-spring-boot-starter</artifactId>
 
   <name>runtimelens-spring-boot-starter</name>
+  <description>Spring Boot Starter for RuntimeLens, enabling zero-code observability.</description>
 
   <dependencies>
     <dependency>
